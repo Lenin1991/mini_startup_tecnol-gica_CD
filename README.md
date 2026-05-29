@@ -6,7 +6,7 @@ AulaSync es una propuesta de aplicación digital pensada para estudiantes de la 
 Esta propuesta es académica y no representa una aplicación oficial de la universidad.
 
 ## Objetivo
-Crear una herramienta digital colaborativa que permita a los estudiantes organizar, compartir y actualizar información académica importante del curso en tiempo real, reduciendo olvidos, confusiones y falta de comunicación.
+Implementar un ecosistema informático en tiempo real enfocado en la gestión del conocimiento colectivo universitario. La plataforma centraliza agendas, recursos y alertas en una interfaz accesible, optimizando el flujo de comunicación interna del curso para erradicar los silos de información y mitigar proactivamente retrasos u omisiones en el calendario académico.
 
 ## Problema que resuelve
 En la modalidad en línea, la información académica puede estar distribuida en varias plataformas, chats o mensajes. A veces un profesor cambia la fecha de una actividad, se retrasa una entrega, se habilita un quiz o se publica una tarea y no todos los compañeros se enteran al mismo tiempo.
